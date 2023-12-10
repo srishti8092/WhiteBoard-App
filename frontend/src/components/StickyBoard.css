@@ -1,0 +1,43 @@
+/* StickyBoard container styles */
+.sticky-board-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Input container styles */
+  .input-container {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  /* Add Sticky button styles */
+  .add-button {
+    padding: 8px 16px;
+    margin-left: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Sticky note styles */
+  .sticky {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Delete button styles */
+  .delete-button {
+    padding: 6px 12px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
